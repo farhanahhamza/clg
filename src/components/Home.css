@@ -1,0 +1,50 @@
+#homeMain {
+  padding: 10px;
+  margin-left: 0px;
+  justify-content: center;
+  height: 99vh;
+  width: 100%;
+  margin-top: 110px;
+}
+#conbuttons {
+  background-color: #5ae4a8;
+  border: none;
+  float: right;
+  margin-right: 16px;
+}
+#conbuttons:hover{
+  background-color: #42a77b;
+}
+#card1 {
+  border: solid 1px #5ae4a8;
+  box-shadow: 1px 0px 7px rgb(90 228 168);
+  /* background: #dcdbdb; */
+}
+#logoName {
+  font-weight: bold;
+  margin-left: 18px;
+  font-size: 1.6rem;
+  font-family: system-ui;
+}
+#logoImgg {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 3rem;
+}
+.lognme {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  margin-top: -6px;
+}
+.navbar {
+  height: 74px;
+  padding-top: 0px;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+  text-align: center;
+  text-align-last: center;
+}
